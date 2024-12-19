@@ -3,11 +3,11 @@
 <h2>Команда № 33</h2>
 
 <ul>
-  <li><span style="color: blue;">Богдан Танчук</span></li>
-  <li><span style="color: gold;">Илья Бецукели</span></li>
-  <li><span style="color: limegreen;">Артемий Глобчастый</span></li>
-  <li><span style="color: red;">Абдрахманов Антон</span></li>
-  <li><span style="color: orange;">Георгий Килин</span></li>
+  <li><span style="background-color: blue; color: white; padding: 3px; border-radius: 5px;">Богдан Танчук</span></li>
+  <li><span style="background-color: gold; color: black; padding: 3px; border-radius: 5px;">Илья Бецукели</span></li>
+  <li><span style="background-color: limegreen; color: black; padding: 3px; border-radius: 5px;">Артемий Глобчастый</span></li>
+  <li><span style="background-color: red; color: white; padding: 3px; border-radius: 5px;">Абдрахманов Антон</span></li>
+  <li><span style="background-color: orange; color: black; padding: 3px; border-radius: 5px;">Георгий Килин</span></li>
 </ul>
 
 ### [Презентация проекта](https://docs.google.com/presentation/d/1WLEXedNQ8Fe1tLqf7XRCUHHzyrKC_fTytUfvbkrmMg0/edit?usp=sharing)
