@@ -1,5 +1,18 @@
 # View-Forecast: VK Ads Auction Prediction
 
+<h2>Команда № 33</h2>
+
+<ul>
+  <li><span style="color: blue;">Богдан Танчук</span></li>
+  <li><span style="color: gold;">Илья Бецукели</span></li>
+  <li><span style="color: limegreen;">Артемий Глобчастый</span></li>
+  <li><span style="color: red;">Абдрахманов Антон</span></li>
+  <li><span style="color: orange;">Георгий Килин</span></li>
+</ul>
+
+### [Презентация проекта](https://docs.google.com/presentation/d/1WLEXedNQ8Fe1tLqf7XRCUHHzyrKC_fTytUfvbkrmMg0/edit?usp=sharing)
+### [Ноутбук с обработкой данных](https://colab.research.google.com/drive/1YXUPY6UTM2KXXmya9HeZQUq3HisU5-wo?usp=sharing)
+
 ### Описание задачи
 
 Проект посвящен прогнозированию количества просмотров рекламных объявлений ВКонтакте. Основная задача — предсказать, сколько пользователей увидят объявление в будущем, используя исторические данные о показах, демографию пользователей и параметры кампаний.
@@ -25,16 +38,7 @@
 
 ---
 
-### Участники проекта
 
-- Богдан Танчук
-- Илья Бецукели
-- Артемий Глобчастый
-- Абдрахманов Антон
-- Георгий Килин
-
-### [Презентация проекта](https://docs.google.com/presentation/d/1WLEXedNQ8Fe1tLqf7XRCUHHzyrKC_fTytUfvbkrmMg0/edit?usp=sharing)
-### [Ноутбук с обработкой данных](https://colab.research.google.com/drive/1YXUPY6UTM2KXXmya9HeZQUq3HisU5-wo?usp=sharing)
 
 
 
