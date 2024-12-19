@@ -10,8 +10,8 @@
 
 
 
-## [Презентация проекта](https://docs.google.com/presentation/d/1WLEXedNQ8Fe1tLqf7XRCUHHzyrKC_fTytUfvbkrmMg0/edit?usp=sharing)
-## [Ноутбук с обработкой данных](https://colab.research.google.com/drive/1YXUPY6UTM2KXXmya9HeZQUq3HisU5-wo?usp=sharing)
+#### [Презентация проекта](https://docs.google.com/presentation/d/1WLEXedNQ8Fe1tLqf7XRCUHHzyrKC_fTytUfvbkrmMg0/edit?usp=sharing)
+#### [Ноутбук с обработкой данных](https://colab.research.google.com/drive/1YXUPY6UTM2KXXmya9HeZQUq3HisU5-wo?usp=sharing)
 
 ### Описание задачи
 
