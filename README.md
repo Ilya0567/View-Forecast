@@ -1,4 +1,3 @@
-# View-Forecast
 # View-Forecast: VK Ads Auction Prediction
 
 ### Описание задачи
